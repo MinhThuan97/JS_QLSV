@@ -5,16 +5,9 @@ var validation = new Validation();
 getLocalStorage();
 
 function addUser() {
-<<<<<<< HEAD
     console.log("Đây là addUser của thuanpm2")
 }
 
-=======
-    console.log("Đây là addUser đã làm xong của thuanpm")
-}
-
-
->>>>>>> main
 function getEle(id) {
     return document.getElementById(id);
 }
