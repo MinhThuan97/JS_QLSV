@@ -4,6 +4,10 @@ var validation = new Validation();
 
 getLocalStorage();
 
+function addUser() {
+    console.log("Đây là addUser của thuanpm2")
+}
+
 function getEle(id) {
     return document.getElementById(id);
 }
